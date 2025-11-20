@@ -1,0 +1,5 @@
+{
+  "name": "凯利公式仿真模拟器",
+  "description": "一个交互式模拟，揭示赔率、胜率和凯利公式仓位管理之间的关系。",
+  "requestFramePermissions": []
+}
